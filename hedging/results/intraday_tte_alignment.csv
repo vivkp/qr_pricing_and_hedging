@@ -1,0 +1,2 @@
+expiry,strikes_in_file,option_types_in_file,unique_timestamps,timestamps_with_tte_disagreement,timestamps_missing_some_strikes,first_quote,last_quote,expiry_date_has_quote
+2024-10-03 15:30:00,24,CE,2250,0,17,2024-09-25 09:15:00,2024-10-03 15:29:00,True
