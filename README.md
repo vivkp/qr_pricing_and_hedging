@@ -1,4 +1,4 @@
-# QRProject1 — NIFTY Derivatives Pricing and Delta Hedging
+# NIFTY Derivatives Pricing and Delta Hedging
 
 This combines the pricing/numerical-method work from `quant-derivatives-engine 3` with the synchronized NIFTY intraday option study from `project1-quant`.
 
